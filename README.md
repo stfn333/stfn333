@@ -16,10 +16,7 @@ I am passionate about the intersection of Python programming and computational d
 - 💡 Exploring creative coding, algorithmic art, and generative design is my current focus.
 - 🤝 I'm open to collaborations and eager to connect with like-minded individuals in the Python and design communities.
   
-## 💻 Technologies & Tools
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-                    </p>   
+## 💻 Technologies & Tools   
                     
 <img src="./Logos/python.png" alt="Python" width="35" height="35"><img src="./Logos/pycharm.png" alt="PyCharm" width="35" height="35"><img src="./Logos/html.png" alt="HTML" width="35" height="35"><img src="./Logos/css.png" alt="CSS" width="35" height="35"><img src="./Logos/rhinoceros.png" alt="Rhino3D" width="35" height="35"><img src="./Logos/grasshopper.png" alt="Grasshopper" width="35" height="35"><img src="./Logos/photoshop.png" alt="Photoshop" width="35" height="35"><img src="./Logos/illustrator.png" alt="Illustrator" width="35" height="35">
 
