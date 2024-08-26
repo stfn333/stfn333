@@ -20,12 +20,7 @@ I am passionate about the intersection of Python programming and computational d
                     
 <img src="./Logos/python.png" alt="Python" width="35" height="35">&nbsp;
 <img src="./Logos/pycharm.png" alt="PyCharm" width="35" height="35">&nbsp;
-<img src="./Logos/html.png" alt="HTML" width="35" height="35">&nbsp;
-<img src="./Logos/css.png" alt="CSS" width="35" height="35">&nbsp;
-<img src="./Logos/rhinoceros.png" alt="Rhino3D" width="35" height="35">&nbsp;
-<img src="./Logos/grasshopper.png" alt="Grasshopper" width="35" height="35">&nbsp;
-<img src="./Logos/photoshop.png" alt="Photoshop" width="35" height="35">&nbsp;
-<img src="./Logos/illustrator.png" alt="Illustrator" width="35" height="35">
+
 
 
 
